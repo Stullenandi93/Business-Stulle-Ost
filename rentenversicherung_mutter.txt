@@ -1,0 +1,46 @@
+Versicherungsnummer
+Eingangsstempel der Antrag aufnehmenden Stelle
+Deutsche
+Rentenversicherung
+Eingangsstempel des Rentenversicherungsträgers
+Antrag auf Leistungen zur Teilhabe für Versicherte
+- Rehabilitationsantrag
+G0100
+Hinweis: Um sachgerecht über Ihren Antrag entscheiden zu können, benötigen wir aufgrund des Sechsten Buches Sozialgesetzbuch und Neunten Buches Sozialgesetzbuch von Ihnen einige wichtige Informationen und Unterlagen.
+Wir möchten Sie deshalb bitten, die gestellten Fragen vollständig zu beantworten und uns die erbetenen Unterlagen möglichst umgehend zu überlassen. Ihre Mithilfe, die in den §§ 60-65 Erstes Buch Sozialgesetzbuch - SGB I ausdrücklich vorgesehen ist, erleichtert uns eine rasche Erledigung Ihrer Angelegenheiten. Bitte bedenken Sie, dass wir Ihnen, wenn Sie uns nicht unterstützen, die Leistung ganz oder teilweise versagen oder entziehen dürfen
+(§ 66 SGB I).
+Sie können diesen Antrag auch elektronisch auf www.deutsche-rentenversicherung.de/eantrag-g0100 stellen.
+Handschriftliche Ergänzungen bitte in Druckschrift in schwarz oder blau
+Hat die gesetzliche Krankenkasse, die Agentur für Arbeit oder das Jobcenter schriflich aufgefordert, diesen Antrag zu stellen?
+nein
+ja, die Krankenkasse
+Aufforderungsschreiben bitte in Kopie beifügen!
+ja, die Agentur für Arbeit
+ja, das Jobcenter
+1
+Beantragte Leistung
+Bitte den Befundbericht (Formular S0051) und die Honorarabrechnung (Formular S0050) beifügen.
+Leistungen zur medizinischen Rehabilitation
+stationär
+ganztägig ambulant
+Bitte Formular G0110 beifügen!
+Leistungen zur medizinischen Rehabilitation bei Abhängigkeitserkrankungen
+stationär
+ganztägig ambulant
+ambulant
+Kombinationsbehandlungen
+Bitte Formular G0110 beifügen!
+Leistungen zur onkologischen Rehabilitation
+stationär
+ganztägig ambulant
+Bitte Formular G0110 (sofern Sie keine Altersrente beziehen) und das Formular
+S0052 beifügen!
+Leistungen zur Teilhabe am Arbeitsleben (Berufliche Rehabilitation)
+Bitte Formular G0130 beifügen!
+Kraftfahrzeughilfe
+Bitte die Formulare G0140 und G0142 beifügen!
+Hilfsmittel und technische Arbeitshilfen, die behinderungsbedingt zur Berufsausübung erforderlich sind
+Bitte die Formulare G0133 und gegebenenfalls G0134 beifügen!
+Seite 1 von 10
+G0100-00 DRV
+Vercion 30030 - AGRHAQ 2/2023 - Stand 16.03.2023
